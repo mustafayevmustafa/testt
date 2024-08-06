@@ -5,6 +5,10 @@ trait A{
    public function test($message){
        echo $message;
    }
+
+    public function sdfgdsg($message){
+        echo $message;
+    }
 }
 
 class B {
