@@ -7,5 +7,6 @@ function concat($name,$surname)
     return $full_name;
 }
 
+// bu bir testdir
 
 $programming = "php";
